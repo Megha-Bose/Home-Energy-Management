@@ -10,7 +10,7 @@ References:
 - Jiménez-Bravo, Diego & Pérez-Marcos, Javier & Hernández de la Iglesia, Daniel & Villarrubia, G. & Paz, Juan. (2019). Multi-Agent Recommendation System for Electrical Energy Optimization and Cost Saving in Smart Homes. Energies. 12. 1317. 10.3390/en12071317. 
 
 ## Power Limit
-Using EAQR to coordinate power consumption between appliances while considering a power limit.
+Using exploring actions according to Q-value ratios (EAQR) to coordinate power consumption between appliances while considering a power limit.
 
 Working of EAQR: [eaqr.ipynb](eaqr.ipynb)
 
